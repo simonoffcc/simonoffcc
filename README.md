@@ -1,6 +1,6 @@
 # Hi👋
 
-Hello there! I'm Ivan, a passionate software enthusiast and a dedicated polytechnic student majoring in Software Engineering.
+Hello there! I'm Ivan, 19 y.o., a software enthusiast and a polytechnic student majoring in Software Engineering.
 
 ## About Me
 

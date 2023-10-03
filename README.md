@@ -6,5 +6,5 @@ Hello there! I'm Ivan, a passionate software enthusiast and a dedicated polytech
 
 - 🎓 Currently, I am a student studying Software Engineering at Peter the Great St. Petersburg Polytechnic University.
 - 💻 I specialize in writing Telegram bots using Python, adding a touch of automation to the messaging world.
-- 🚀 Proficient in C++, I enjoy diving deep into the intricacies of algorithms and problem-solving.
+- 🚀 Proficient in C++. Java is only in the process of being learned.
 - 🐧 An avid Linux enthusiast, I am excited about exploring various Linux distributions and getting hands-on experience with servers.

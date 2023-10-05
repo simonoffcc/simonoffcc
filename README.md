@@ -1,7 +1,3 @@
-# Hi👋
-
-Hello there! I'm Ivan, 19 y.o., a polytechnic student majoring in Software Engineering.
-
 ## About Me
 
 - 🎓 Currently, I am a student studying Software Engineering at Peter the Great St. Petersburg Polytechnic University.

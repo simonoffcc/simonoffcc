@@ -11,5 +11,5 @@ I enjoy exploring Linux and using the Raspberry Pi as a host for various project
 
 ### 🌐 Connect with Me
 - **Telegram:** [simonoffcc](https://t.me/simonoffcc)
-- **Vk:** [Ivan Simonenko](https://vk.com/simonoffcc)
 - **Mail:** simonenko2.is@edu.spbstu.ru
+- **Vk:** [Ivan Simonenko](https://vk.com/simonoffcc)

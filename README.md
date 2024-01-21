@@ -6,7 +6,7 @@ I enjoy exploring Linux and using the Raspberry Pi as a host for various project
 
 ### 🚀 Tech Stack
 - **Languages:** Python (proficient), C++, Java (intermediate)
-- **Operating Systems:** Linux enthusiast
+- **Operating Systems:** Windows, Linux
 - **Projects:** I actively develop chatbots of varying complexity and deploy them on a Raspberry Pi.
 
 ### 🌐 Connect with Me

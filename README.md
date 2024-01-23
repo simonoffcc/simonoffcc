@@ -1,5 +1,5 @@
 ### 🎓 About Me
-I'm a 19-year-old student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
+I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
 
 ### 🚀 Tech Stack
 - **Languages:** Python (proficient), C++, Java (intermediate)

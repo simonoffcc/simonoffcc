@@ -4,7 +4,7 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 ### 🚀 Tech Stack
 - **Languages:** Python (proficient), C++, Java (intermediate)
 - **Operating Systems:** Windows, Linux
-- **Projects:** I actively develop chatbots of varying complexity and deploy them on a Raspberry Pi.
+- **Projects:** I actively develop chatbots of varying complexity and deploy them on my Raspberry Pi.
 
 ### 🌐 Connect with Me
 - **Telegram:** [simonoffcc](https://t.me/simonoffcc)

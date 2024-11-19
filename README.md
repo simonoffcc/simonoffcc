@@ -15,7 +15,7 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=simonoffcc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![simonoffcc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonoffcc&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![simonoffcc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonoffcc&hide_title=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonoffcc&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 

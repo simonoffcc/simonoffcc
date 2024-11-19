@@ -9,3 +9,5 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 - **Telegram:** [simonoffcc](https://t.me/simonoffcc)
 - **Gmail:** simonenkoivansimon@gmail.com
 - **Vk:** [Ivan Simonenko](https://vk.com/simonoffcc)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=simonoffcc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)

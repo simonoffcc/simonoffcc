@@ -13,9 +13,12 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 - **Gmail:** simonenkoivansimon@gmail.com
 - **Vk:** [Ivan Simonenko](https://vk.com/simonoffcc)
 
+###
 
-[![simonoffcc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonoffcc&hide_title=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonoffcc&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonoffcc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=simonoffcc&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonoffcc&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=simonoffcc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+###

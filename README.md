@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏻 I'm Ivan, <i>aka</i> <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a> </h1>
+<h1 align="left">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> I'm Ivan, <i>aka</i> <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a> </h1>
 <h3 align="left">Software Engineering student from Russia </h3>
 
 ### 🎓 About Me

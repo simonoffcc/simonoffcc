@@ -1,5 +1,6 @@
-<h1 align="left">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> I'm Ivan, <i>aka</i> <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a> </h1>
-<h3 align="left">Software Engineering student from Russia </h3>
+<h1 align="left">Hey, I'm <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="left">Software Engineering student from Russia</h3>
 
 ### 🎓 About Me
 I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.

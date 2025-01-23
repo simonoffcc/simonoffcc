@@ -7,7 +7,6 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 ### 🌐 Connect with Me
 - **Telegram:** [simonoffcc](https://t.me/simonoffcc)
 - **Gmail:** simonenkoivansimon@gmail.com
-- **Vk:** [Ivan Simonenko](https://vk.com/simonoffcc)
 
 ###
 

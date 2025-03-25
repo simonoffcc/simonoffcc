@@ -1,5 +1,5 @@
 <h1 align="left">Hey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a></h1>
-<h3 align="left">Software Engineering student from Russia.</h3>
+<h3 align="left">Software engineering student.</h3>
 
 ### 🎓 About Me
 I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
@@ -17,3 +17,5 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 </div>
 
 ###
+
+![ZappaBoy GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=ZappaBoy&gitlabUsername=ZappaBoy)

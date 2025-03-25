@@ -4,10 +4,11 @@
 ### 🎓 About Me
 I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
 
-### 🌐 Connect with Me
-- **Telegram:** [simonoffcc](https://t.me/simonoffcc)
+### 🌐 My Profiles
+- **[GitLab](https://gitlab.com/simonoffcc)**
+- **[Telegram](https://t.me/simonoffcc)**
 - **Gmail:** simonoffcc@gmail.com
-- **GitLab:** [simonoffcc](https://gitlab.com/simonoffcc)
+
 
 ###
 

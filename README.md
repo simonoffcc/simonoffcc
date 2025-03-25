@@ -18,4 +18,4 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 
 ###
 
-![ZappaBoy GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=ZappaBoy&gitlabUsername=ZappaBoy)
+![simonoffcc GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=simonoffcc&gitlabUsername=simonoffcc)

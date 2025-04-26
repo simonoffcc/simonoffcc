@@ -7,7 +7,7 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 ### 🌐 My Profiles
 - **[GitLab](https://gitlab.com/simonoffcc)**
 - **[Telegram](https://t.me/simonoffcc)**
-- **Gmail:** simonoffcc@gmail.com
+- **Сontact e-mail:** simonoffcc@gmail.com - 
 
 
 ###

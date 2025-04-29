@@ -4,6 +4,12 @@
 ### 🎓 About Me
 I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
 
+---
+### My Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
+
 ### 🌐 My Profiles
 - **[GitLab](https://gitlab.com/simonoffcc)**
 - **[Telegram](https://t.me/simonoffcc)**

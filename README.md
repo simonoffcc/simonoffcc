@@ -1,13 +1,10 @@
 <h1 align="left">Hey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a></h1>
 <h3 align="left">Software engineering student.</h3>
-
 ---
-
 
 ### 🎓 About Me
 
 I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
-
 ---
 
 ### My Programming Skills
@@ -33,7 +30,6 @@ I'm a student currently pursuing a degree in Software Engineering at Peter the G
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 ### 🌐 My Profiles

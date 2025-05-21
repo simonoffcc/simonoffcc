@@ -7,6 +7,8 @@
 
 I'm a student currently pursuing a degree in Software Engineering at Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity.
 
+I am now also working as a Robotics Control Interface Developer at The Russian State Scientific Center for Robotics and Technical Cybernetics (RTC), balancing this role alongside my studies. 
+
 ---
 
 ### My current stack

@@ -5,9 +5,9 @@
 
 ### 🎓 About Me
 
-I'm a student currently pursuing a degree in Software Engineering at ![Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity.
+I'm a student currently pursuing a degree in Software Engineering at [Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity.
 
-I am now also working as a software developer at ![The Russian State Scientific Center for Robotics and Technical Cybernetics]([https://rtc.ru]), balancing this role alongside my studies. 
+I am now also working as a software developer at [The Russian State Scientific Center for Robotics and Technical Cybernetics]([https://rtc.ru]), balancing this role alongside my studies. 
 
 ---
 

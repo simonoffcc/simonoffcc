@@ -1,5 +1,5 @@
 <h1 align="left">Hey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm <a href="https://t.me/simonoffcc" target="_blank">@simonoffcc</a></h1>
-<h3 align="left">Software engineering student.</h3>
+<h3 align="left">Software engineering student</h3>
 
 ---
 
@@ -38,8 +38,6 @@ I am now also working as a software developer at [The Russian State Scientific C
 ---
 
 ### 🌐 My Profiles
-
-- **[GitLab](https://gitlab.com/simonoffcc)**
 
 - **[Telegram](https://t.me/simonoffcc)**
 

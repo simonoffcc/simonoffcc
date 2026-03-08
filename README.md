@@ -3,6 +3,12 @@
 
 ---
 
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=simonoffcc&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+
 ### 🎓 About Me
 
 I'm a student currently pursuing a degree in Software Engineering at [Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity.

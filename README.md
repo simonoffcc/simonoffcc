@@ -4,12 +4,6 @@
 
 ---
 
-### 📊 My contribution activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=simonoffcc&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ### 🎓 About Me
 
 I'm a student currently pursuing a degree in Software Engineering at [Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity.

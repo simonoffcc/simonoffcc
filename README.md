@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="absmiddle"/> I'm [@simonoffcc](https://t.me/simonoffcc)
+# Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="absmiddle"/> I'm [@simonoffcc](https://t.me/simonoffcc)
 
 ### Software engineering student
 

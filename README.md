@@ -9,6 +9,7 @@
 I recently graduated with a degree in Software Engineering from [Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity, and I am currently preparing to pursue a Master's degree.
 
 I am working as a full stack software developer at [The Russian State Scientific Center for Robotics and Technical Cybernetics](https://rtc.ru).
+
 ---
 
 ### My current stack

@@ -1,15 +1,14 @@
 # Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="absmiddle"/> I'm [@simonoffcc](https://t.me/simonoffcc)
 
-### Software engineering student
+### Full Stack Software Developer
 
 ---
 
 ### 🎓 About Me
 
-I'm a student currently pursuing a degree in Software Engineering at [Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity.
+I recently graduated with a degree in Software Engineering from [Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/), Institute of Computer Science and Cybersecurity, and I am currently preparing to pursue a Master's degree.
 
-I am now also working as a full stack software developer at [The Russian State Scientific Center for Robotics and Technical Cybernetics](https://rtc.ru) balancing this role alongside my studies. 
-
+I am working as a full stack software developer at [The Russian State Scientific Center for Robotics and Technical Cybernetics](https://rtc.ru).
 ---
 
 ### My current stack

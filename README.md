@@ -1,4 +1,4 @@
-# Hi, I'm [@simonoffcc](https://t.me/simonoffcc)
+# I'm [@simonoffcc](https://t.me/simonoffcc)
 
 ### Full Stack Software Developer
 

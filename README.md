@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="absmiddle"/> I'm [@simonoffcc](https://t.me/simonoffcc)
+# Hi, I'm [@simonoffcc](https://t.me/simonoffcc)
 
 ### Full Stack Software Developer
 
